@@ -1,0 +1,79 @@
+.support{
+
+      margin: 5px;
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
+}
+.tick-feat {
+    margin-bottom: 35px;
+    overflow: hidden;
+    display: block;
+}
+.tick-feat a {
+    color: #058;
+}
+.tick-feat:hover .t-feat-img{
+    background-color: #0473c0;
+    color: #fff;
+}
+.tick-feat:hover .t-feat-info h3{
+    color: #0473c0;
+}
+.tick-features .t-feat-img {
+    display: block;
+    background-color: #f0f0f2;
+    width: 92px;
+    height: 92px;
+    font-size: 40px;
+    color: #424d6c;
+    text-align: center;
+    float: right;
+    margin-left: 18px;
+}
+.tick-features .t-feat-info {
+    float: right;
+    width: 65%;
+}
+.tick-features .t-feat-img i {
+    line-height: 92px;
+}
+.tick-features .t-feat-info h3 {
+    color: #424d6c;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.tick-features .t-feat-info p {
+    color: #424d6c;
+    font-size: 15px;
+    margin-top: 0;
+}
+.appoform textarea{
+    height: 138px
+}
+.custom-span {
+  position: absolute;
+  left: 0;
+  bottom: -23px;
+  background-color: #0473c0;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  padding: 0 5px;
+}
+.panel-body .admin{
+  padding: 0;
+  margin-bottom: 35px;
+}
+.panel-body .badge-admin{
+  background-color:#ffb800;
+}
+hr.style-six {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
